@@ -1,0 +1,6 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "Jars/testng-7.4.0.jar"
+    ]
+}
